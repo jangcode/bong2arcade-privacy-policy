@@ -1,18 +1,13 @@
 # bong2arcade-privacy-policy
 
-Navigating app store requirements can be a bit of a legal labyrinth, but having a solid Privacy Policy is the best way to keep the gatekeepers happy.
-
-Since you mentioned children under 13 might be part of your audience, this draft includes specific language to comply with **COPPA** (Children's Online Privacy Protection Act) and general store guidelines.
-
-Replace the bracketed text—like **[App Name]**—with your actual details.
 
 ---
 
 ## Privacy Policy
 
-**Last Updated: [Insert Date]**
+**Last Updated: March 13, 2026**
 
-This Privacy Policy describes how **[Your Name/Company Name]** ("we," "our," or "us") collects, uses, and shares information when you use **[App Name]** (the "App").
+This Privacy Policy describes how **[Bong2Arcade/Bong2]** ("we," "our," or "us") collects, uses, and shares information when you use **[all our mobile app]** (the "App").
 
 ### 1. Information We Collect
 
